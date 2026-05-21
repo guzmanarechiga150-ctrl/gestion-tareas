@@ -1,0 +1,8 @@
+Alumno: Roberto Guzman Arechiga
+Fecha: 21 de mayo de 2026
+
+
+Repositorio GitHub opcional:
+https://github.com/guzmanarechiga150-ctrl/gestion-tareas-mendix
+
+
